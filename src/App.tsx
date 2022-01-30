@@ -5,7 +5,6 @@ import persons, { Persons } from "./file";
 import { ListWrapper } from "./List/ListWrapper";
 import { ListSection } from "./List/ListSection";
 import { ListItem } from "./List/ListItem";
-import searchIcon from "./magnifiying.png";
 
 function App() {
   const [userInput, setUserInput] = React.useState("");
