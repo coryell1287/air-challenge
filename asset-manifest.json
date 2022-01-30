@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/air-challenge/static/css/main.69f190e3.css",
+    "main.js": "/air-challenge/static/js/main.15409ee8.js",
+    "static/js/787.44d51e62.chunk.js": "/air-challenge/static/js/787.44d51e62.chunk.js",
+    "index.html": "/air-challenge/index.html",
+    "main.69f190e3.css.map": "/air-challenge/static/css/main.69f190e3.css.map",
+    "main.15409ee8.js.map": "/air-challenge/static/js/main.15409ee8.js.map",
+    "787.44d51e62.chunk.js.map": "/air-challenge/static/js/787.44d51e62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f190e3.css",
+    "static/js/main.15409ee8.js"
+  ]
+}
